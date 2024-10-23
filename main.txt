@@ -3,5 +3,3 @@ this is jhansi
 from  devops training team
 
 devops is important
-
-operational team
